@@ -1,4 +1,4 @@
-## Welcome toHello from the doer
+## Hello from the doer
 
 My name is Rahul Sood and i am trying to do all the things which i ever wanted to do. 
 
