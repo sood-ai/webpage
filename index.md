@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome toHello from the doer
 
-You can use the [editor on GitHub](https://github.com/sood-ai/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Rahul Sood and i am trying to do all the things which i ever wanted to do. 
 
 ### Markdown
 
